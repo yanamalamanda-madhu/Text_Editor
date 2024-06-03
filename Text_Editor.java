@@ -4,10 +4,10 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.filechooser.*;
 import java.awt.print.*;
-import java.awt.print.PageFormat;
-import java.awt.print.PrinterJob;
+//import java.awt.print.PageFormat;
+//import java.awt.print.PrinterJob;
 import java.io.*;
-import java.util.Arrays;
+//import java.util.Arrays;
 
 class Text_Editor implements ActionListener
 {
