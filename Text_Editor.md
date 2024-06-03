@@ -42,8 +42,69 @@ You need to import the swing package.Java brings various Streams with its I/O pa
 import java.io.*;
 ```
 ## Results
-### Results of person 1
-![Text_Editor_Interface]()</br>
+### Text Editor Interface
+![Text_Editor_Interface](https://github.com/yanamalamanda-madhu/Text_Editor/blob/main/Results/Text_Editor_Interface.png)</br>
 
+### Text Editor Menu Options
+![Text_Editor_Menu_Options](https://github.com/yanamalamanda-madhu/Text_Editor/blob/main/Results/Text_Editor_Menu_Options.png)</br>
 
+### Text Editor Edit Options
+![Text_Editor_Edit_Options](https://github.com/yanamalamanda-madhu/Text_Editor/blob/main/Results/Text_Editor_Edit_Options.png)</br>
+
+### Text Editor Format Option
+![Text_Editor_Format_Option](https://github.com/yanamalamanda-madhu/Text_Editor/blob/main/Results/Text_Editor_Format_Option.png)</br>
+
+### Text Editor Zoom Options
+![Text_Editor_Zoom_Options](https://github.com/yanamalamanda-madhu/Text_Editor/blob/main/Results/Text_Editor_Zoom_Options.png)</br>
+
+### Text Editor Help Options
+![Text_Editor_Help_Options](https://github.com/yanamalamanda-madhu/Text_Editor/blob/main/Results/Text_Editor_Help_Options.png)</br>
+
+### Text Editor Cursor Position 1
+![Text_Editor_Cursor_Position_1](https://github.com/yanamalamanda-madhu/Text_Editor/blob/main/Results/Text_Editor_Cursor_Position.png)</br>
+
+### Text Editor Cursor Position 2
+![Text_Editor_Cursor_Position_2](https://github.com/yanamalamanda-madhu/Text_Editor/blob/main/Results/Text_Editor_Cursor_Position_2.png)</br>
+
+### Text Editor Font Names
+![Text_Editor_Font_Names](https://github.com/yanamalamanda-madhu/Text_Editor/blob/main/Results/Text_Editor_Font_Names.png)</br>
+
+### Text Editor Font Styles
+![Text_Editor_Font_Styles](https://github.com/yanamalamanda-madhu/Text_Editor/blob/main/Results/Text_Editor_Font_Styles.png)</br>
+
+### Text Editor Font Sizes
+![Text_Editor_Font_Sizes](https://github.com/yanamalamanda-madhu/Text_Editor/blob/main/Results/Text_Editor_Font_Sizes.png)</br>
+
+### Text Editor Open New File Output Option
+![Text_Editor_Open_File_Output_Option](https://github.com/yanamalamanda-madhu/Text_Editor/blob/main/Results/Text_Editor_Open_File_Output_Option.png)</br>
+
+### Text Editor Open File Option
+![Text_Editor_Open_File_Option](https://github.com/yanamalamanda-madhu/Text_Editor/blob/main/Results/Text_Editor_Open_File_Option.png)</br>
+
+### Text Editor Open File Output
+![Text_Editor_Open_File_Output](https://github.com/yanamalamanda-madhu/Text_Editor/blob/main/Results/Text_Editor_Open_File_Output.png)</br>
+
+### Text Editor Page Setup
+![Text_Editor_Page_Setup](https://github.com/yanamalamanda-madhu/Text_Editor/blob/main/Results/Text_Editor_Page_Setup.png)</br>
+
+### Text Editor Save Option
+![Text_Editor_Save_Option](https://github.com/yanamalamanda-madhu/Text_Editor/blob/main/Results/Text_Editor_Save_Option.png)</br>
+
+### Text Editor Page Setup
+![Text_Editor_Page_Setup](https://github.com/yanamalamanda-madhu/Text_Editor/blob/main/Results/Text_Editor_Page_Setup.png)</br>
+
+### Text Editor Print Option
+![Text_Editor_Print_Option](https://github.com/yanamalamanda-madhu/Text_Editor/blob/main/Results/Text_Editor_Print_Option.png)</br>
+
+### Text Editor Print Page Setup Option
+![Text_Editor_Print_Page_Setup_Option](https://github.com/yanamalamanda-madhu/Text_Editor/blob/main/Results/Text_Editor_Print_Page_Setup_Option.png)</br>
+
+### Text Editor Print Appearance Option
+![Text_Editor_Print_Appearance_Option](https://github.com/yanamalamanda-madhu/Text_Editor/blob/main/Results/Text_Editor_Print_Appearance_Option.png)</br>
+
+### Text Editor WordWrap Option
+![Text_Editor_WordWrap_Option](https://github.com/yanamalamanda-madhu/Text_Editor/blob/main/Results/Text_Editor_WordWrap_Option.png)</br>
+
+### Text Editor Help Result
+![Text_Editor_Help_Result](https://github.com/yanamalamanda-madhu/Text_Editor/blob/main/Results/Text_Editor_Help_Result.png)</br>
 
