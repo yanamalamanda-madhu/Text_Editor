@@ -7,7 +7,7 @@
  4. Failing
  5. Conclusion
 ## Introduction:
-Effective note-taking and text editing tools are essential for various domains. From students and academics drafting essays to professionals writing code, a reliable and user-friendly text editor is a fundamental tool. Text Editor aims to provide a seamless and efficient text editing experience. This text editor supports Basic Text Editing features like cut, copy, paste, select all and File management features like open, save, and manage text files in various formats.
+Effective note-taking and text editing tools are essential for various domains. From students and academics drafting essays to professionals writing code, a reliable and user-friendly text editor is a fundamental tool. Text Editor aims to provide a seamless and efficient text editing experience. This text editor supports Basic Text Editing features like cut, copy, paste, select all and File management features like open, save, and manage text files in various formats. In this Text_Editor while creating a new file it cannot create separate frame for new file. While opening a file if you try to open PDF and some other files it returns the encoded data. You have to give file name everytime while saving the file.if the file name is matches in the file-path then the file will update otherwise it creates new file.
 ## Requirements:
 ### 1 . awt
 ### Importing awt package
@@ -107,3 +107,9 @@ import java.io.*;
 
 ### Text Editor Help Result
 ![Text_Editor_Help_Result](https://github.com/yanamalamanda-madhu/Text_Editor/blob/main/Results/Text_Editor_Help_Result.png)</br>
+
+## Failing 
+1.Auto-Save and Backup
+2.Syntax highlighting for programming languages
+3.Multiple fonts, font-styles ,font-sizes
+
