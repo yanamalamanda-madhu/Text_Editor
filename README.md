@@ -113,3 +113,6 @@ import java.io.*;
 2.Syntax highlighting for programming languages
 3.Multiple fonts, font-styles ,font-sizes
 
+## Conclusion
+primary objective was to create an application easy to use, from students and academics to professionals and general users. This Text_Editor is user-friendly, efficient and have features such as basic text editing, file management, and customization options.
+
