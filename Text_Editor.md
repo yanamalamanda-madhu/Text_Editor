@@ -35,5 +35,15 @@ import javax.swing.event.*;
 ```md
 import javax.swing.filechooser.*;
 ```
+### 3 . io
+### Importing io package
+You need to import the swing package.Java brings various Streams with its I/O package that helps the user to perform all the input-output operations. These streams support all the types of objects, data-types, characters, files etc to fully execute the I/O operations. This package is generally imported as follows:
+```md
+import java.io.*;
+```
+## Results
+### Results of person 1
+![Text_Editor_Interface]()</br>
+
 
 
