@@ -109,9 +109,9 @@ import java.io.*;
 ![Text_Editor_Help_Result](https://github.com/yanamalamanda-madhu/Text_Editor/blob/main/Results/Text_Editor_Help_Result.png)</br>
 
 ## Failing 
-1.Auto-Save and Backup
-2.Syntax highlighting for programming languages
-3.Multiple fonts, font-styles ,font-sizes
+1.Auto-Save and Backup</br>
+2.Syntax highlighting for programming languages</br>
+3.Multiple fonts, font-styles ,font-sizes</br>
 
 ## Conclusion
 primary objective was to create an application easy to use, from students and academics to professionals and general users. This Text_Editor is user-friendly, efficient and have features such as basic text editing, file management, and customization options.
